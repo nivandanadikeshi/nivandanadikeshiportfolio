@@ -46,7 +46,7 @@ export default function Skills() {
       title: "Backend Development",
       icon: <FaServer className="text-green-400 text-3xl" />,
       description: "Building robust and scalable server-side applications and APIs",
-      items: ["Node.js", "Express", "MongoDB","Php","Java"]
+      items: ["Node.js", "MySQL", "MongoDB","Php(Laravel)","Python","C#","Java"]
     },
     {
       category: "mobile",

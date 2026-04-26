@@ -170,27 +170,27 @@ export default function Projects() {
     {
       id: 2,
       title: "HR Management System",
-      description: "A modern and responsive personal portfolio website built using React, TypeScript, Tailwind CSS, and Vite. This portfolio showcases my skills in UI/UX design, frontend development, backend development, and full-stack development. It includes sections for my projects, education, skills, achievements, and contact details, with seamless integration of GitHub and LinkedIn profiles. The website is fast, mobile-friendly, and deployed using GitHub Pages.",
-      tags: ["PHP (Laravel)", "MySQL", "HTML", "CSS", "JavaScript"],
+      description: "A Human Resource Management System (HRMS) developed using PHP, HTML, CSS, JavaScript, and MySQL. The system includes user authentication, role-based access control, and a secure database to ensure safe and organized management of employee information. It was designed following proper requirement analysis and database design principles, allowing efficient handling of HR-related data. The application provides functionalities to manage employee records, roles, and system access while maintaining data integrity and security. The system is structured to be user-friendly, efficient, and scalable for organizational HR operations.",
+      tags: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/HRMS.png",
-      githubUrl: "",
+      githubUrl: "https://github.com/NivandanaDikeshi/HRMS.git",
       type: "web",
       featured: true
     },
     {
       id: 3,
       title: "Inventory Management System",
-      description: "A full CRUD event planning system for managing events, bookings, and schedules with user registration and management.",
+      description: "A comprehensive Stock Management System developed using PHP (Laravel), HTML, CSS, JavaScript, and MySQL. The system includes user authentication, role-based access control, stock management, inventory tracking, and order processing, ensuring efficient and secure handling of organizational resources. It also features an analytics dashboard for real-time insights, notifications for timely updates, and a secure database to maintain data integrity. The application is designed to be user-friendly, scalable, and reliable, providing a streamlined solution for managing stock and inventory operations.",
       tags: ["PHP (Laravel)", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/SMS.png",
-      githubUrl: "",
+      githubUrl: "https://github.com/NivandanaDikeshi/SMSPROJECT.git",
       type: "web",
       featured: true
     },
     {
       id: 4,
       title: "Cricket",
-      description: "An online advertising platform with user registration, profile management, order placement, and customer support modules.",
+      description: "",
       tags: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/cricket.png",
       githubUrl: "",
