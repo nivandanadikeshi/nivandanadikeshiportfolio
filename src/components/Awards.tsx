@@ -5,21 +5,21 @@ export default function Awards() {
   const awards = [
     {
       id: 1,
-      title: "400m x4 Relay – Curtin University Inter-University Meet",
-      issuer: "SLIIT University",
-      date: "Sep 2025",
-      description: "Represented SLIIT University in the 400m x4 relay at the Curtin University Inter-University Meet. Demonstrated teamwork, endurance, and sportsmanship throughout the competition.",
-      icon: <FaTrophy className="text-yellow-400 text-2xl" />,
-      category: "Sports Achievement"
+      title: "BSc. (Hons.) in Software Engineering",
+      issuer: "Sri Lanka Technology Campus",
+      date: "Dec 2025",
+      description: "Graduated with a BSc (Hons.) in Software Engineering, gaining expertise in web and mobile application development, database design, software architecture, and project management through academic and industry projects.",
+      icon: <FaMedal className="text-blue-400 text-2xl" />,
+      category: "Education Achievement"
     },
     {
       id: 2,
-      title: "High Jump – SLIIT MOMENTUM'25",
-      issuer: "SLIIT University",
-      date: "Sep 2025",
-      description: "Achieved recognition for performance in the High Jump event at SLIIT Momentum'25 organized by the Sliit Athletic Team. Proudly represented SLIIT Athletics.",
-      icon: <FaMedal className="text-blue-400 text-2xl" />,
-      category: "Sports Achievement"
+      title: "Code competition SLTC Codemania'22",
+      issuer: "Sri Lanka Technology Campus",
+      date: "Mar 2025",
+      description: "Competed in SLTC Codemania’22, demonstrating strong programming logic, analytical thinking, and problem-solving abilities in a competitive coding environment.",
+      icon: <FaTrophy className="text-yellow-400 text-2xl" />,
+      category: "Education Achievement"
     },
   
   ];
