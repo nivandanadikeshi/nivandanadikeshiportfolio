@@ -11,7 +11,7 @@ export default defineConfig({
   build: {
     outDir: "dist",
     assetsDir: "assets",
-    sourcemap: false, // ❗ better for production
+    sourcemap: false,
   },
   resolve: {
     alias: {
