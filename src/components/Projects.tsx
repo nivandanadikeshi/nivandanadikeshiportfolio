@@ -190,7 +190,7 @@ export default function Projects() {
     {
       id: 4,
       title: "Cricket",
-      description: "An online advertising platform with user registration, profile management, order placement, and customer support modules.",
+      description: "A cricket information mobile application that allows users to select match formats such as ODI or Test and dynamically displays team squads, including batsmen and bowlers, in a clean and user-friendly interface.",
       tags: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/cricket.png",
       githubUrl: "",
@@ -210,7 +210,7 @@ export default function Projects() {
     {
       id: 6,
       title: "Resturent",
-      description: "An online advertising platform with user registration, profile management, order placement, and customer support modules.",
+      description: "A restaurant mobile application that allows users to browse menus, select food items, and place orders through a simple and user-friendly interface.",
       tags: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/Resturent.png",
       githubUrl: "",
@@ -230,9 +230,9 @@ export default function Projects() {
     {
       id: 8,
       title: "story Mobile App",
-      description: "An Android app to help pet parents manage their pets' daily needs including health tracking, reminders, and vet appointments.",
-      tags: ["Kotlin", "Android", "Material Design 3"],
-      image: "src/assets/Petapplication.png",
+      description: "A mobile storytelling application designed to enhance user engagement through interactive stories. Users can read and participate in stories by completing small tasks, making choices, and enjoying fun activities that influence the story flow.",
+      tags: ["Flutter", "Material Design", "Figma"],
+      image: "src/assets/story.png",
       githubUrl: "",
       type: "mobile",
       featured: true
@@ -240,9 +240,9 @@ export default function Projects() {
     {
       id: 9,
       title: "BMI Calculator Mobile App",
-      description: "A wellness app with habit tracking, mood journaling, and hydration reminders for personal health management.",
-      tags: ["Kotlin", "Android"],
-      image: "src/assets/wellness.png",
+      description: "A BMI-based health application that allows users to enter personal details like gender, weight, and height to calculate their Body Mass Index and display their current health condition with category-based insights.",
+      tags: ["Flutter", "Material Design", "Figma"],
+      image: "src/assets/BMI.png",
       githubUrl: "",
       type: "mobile",
       featured: true
@@ -270,7 +270,7 @@ export default function Projects() {
     {
       id: 12,
       title: "Food Odering App UI/UX",
-      description: "Mobile app design for pet lovers to adopt and manage their pets' care with clean visual hierarchy.",
+      description: "A food ordering mobile app where users can view restaurant menus, select items, and place orders seamlessly with a simple and intuitive user experience.",
       tags: ["Figma", "UI/UX"],
       image: "src/assets/Food Ordering.png",
       githubUrl: "",
@@ -280,7 +280,7 @@ export default function Projects() {
     {
       id: 13,
       title: "Educational Library Mobile App UI/UX",
-      description: "A mobile shopping app design with product browsing, cart, and checkout flows.",
+      description: "The educational library mobile application designed for university students, enabling them to access books, past exam papers, and research papers organized by categories and authors, with a clean and user-friendly reading experience.",
       tags: ["Figma", "UI/UX"],
       image: "src/assets/Educational App.png",
       githubUrl: "",
@@ -290,9 +290,9 @@ export default function Projects() {
     {
       id: 14,
       title: "ToDO App UI/UX",
-      description: "First UI/UX design project featuring welcome, signup, and home screens for a food delivery app.",
+      description: "A UI/UX design project for a to-do application that includes a home screen displaying task title, date, and notes, allowing users to save and manage their daily tasks as personal memory records.",
       tags: ["Figma", "UI/UX"],
-      image: "src/assets/Food Mobile App.png",
+      image: "src/assets/ToDo App.png",
       githubUrl: "",
       type: "design",
       featured: true
@@ -300,9 +300,9 @@ export default function Projects() {
     {
       id: 15,
       title: "Inventory Management System UI/UX",
-      description: "First UI/UX design project featuring welcome, signup, and home screens for a food delivery app.",
+      description: "A full CRUD event planning system for managing events, bookings, and schedules with user registration and management.",
       tags: ["Figma", "UI/UX"],
-      image: "src/assets/Food Mobile App.png",
+      image: "src/assets/SMS.png",
       githubUrl: "",
       type: "design",
       featured: true
