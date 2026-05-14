@@ -170,7 +170,7 @@ export default function Projects() {
     {
       id: 2,
       title: "HR Management System",
-      description: "A modern and responsive personal portfolio website built using React, TypeScript, Tailwind CSS, and Vite. This portfolio showcases my skills in UI/UX design, frontend development, backend development, and full-stack development. It includes sections for my projects, education, skills, achievements, and contact details, with seamless integration of GitHub and LinkedIn profiles. The website is fast, mobile-friendly, and deployed using GitHub Pages.",
+      description: "A secure system featuring user authentication, role-based access control, and a well-designed database architecture. The project was built after thorough requirement analysis, ensuring data integrity, security, and efficient system performance.",
       tags: ["PHP (Laravel)", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/HRMS.png",
       githubUrl: "",
@@ -180,7 +180,7 @@ export default function Projects() {
     {
       id: 3,
       title: "Inventory Management System",
-      description: "A full CRUD event planning system for managing events, bookings, and schedules with user registration and management.",
+      description: "A Inventory Management system for managing inventory levels, tracking stock movements, and generating reports. It includes features for user authentication, role-based access control, and a well-designed database architecture.",
       tags: ["PHP (Laravel)", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/SMS.png",
       githubUrl: "",
@@ -199,7 +199,7 @@ export default function Projects() {
     },
     {
       id: 5,
-      title: "product",
+      title: "Product Website",
       description: "An online advertising platform with user registration, profile management, order placement, and customer support modules.",
       tags: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/Product.png",
@@ -209,7 +209,7 @@ export default function Projects() {
     },
     {
       id: 6,
-      title: "Resturent",
+      title: "Restaurant Website",
       description: "A restaurant mobile application that allows users to browse menus, select food items, and place orders through a simple and user-friendly interface.",
       tags: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
       image: "src/assets/Resturent.png",
@@ -229,7 +229,7 @@ export default function Projects() {
     },
     {
       id: 8,
-      title: "story Mobile App",
+      title: "Story Mobile App",
       description: "A mobile storytelling application designed to enhance user engagement through interactive stories. Users can read and participate in stories by completing small tasks, making choices, and enjoying fun activities that influence the story flow.",
       tags: ["Flutter", "Material Design", "Figma"],
       image: "src/assets/story.png",
@@ -289,7 +289,7 @@ export default function Projects() {
     },
     {
       id: 14,
-      title: "ToDO App UI/UX",
+      title: "To-DO App UI/UX",
       description: "A UI/UX design project for a to-do application that includes a home screen displaying task title, date, and notes, allowing users to save and manage their daily tasks as personal memory records.",
       tags: ["Figma", "UI/UX"],
       image: "src/assets/ToDo App.png",
